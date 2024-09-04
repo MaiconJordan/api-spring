@@ -1,5 +1,7 @@
 package med.voll.api.domain.medico;
 
+import java.util.Map;
+
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.EqualsAndHashCode;
@@ -57,6 +59,10 @@ public class Medico {
     public void excluir() {
         this.ativo = false;
     }
+
+
+
+
 }
 
 

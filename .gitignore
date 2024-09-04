@@ -1,2 +1,6 @@
 /.metadata/
 api/src/main/java/med/voll/api/domain/medico/Medico.java
+*.xml
+/.vscode
+pom.xml
+
