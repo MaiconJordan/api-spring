@@ -4,3 +4,4 @@ api/src/main/java/med/voll/api/domain/medico/Medico.java
 /.vscode
 pom.xml
 
+api/pom.xml
